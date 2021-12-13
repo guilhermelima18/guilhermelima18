@@ -1,7 +1,9 @@
 ### E ai, eu sou o Guilherme Lima 🤘
 
-- 🔭 Desenvolvedor Web Front-end
-- 📚 Estou me aprofundando em React.JS
+#### Tecnologias estudadas:
+- 📚 Front-End: HTML, CSS, Javascript, React.js, Next.js, (Sass, Styled Components, Chakra UI);
+- 📚 Back-End: .NET C#;
+- 📚 Banco de dados: Mysql, SQL Server;
 
 <div>
   <a href="https://github.com/guilhermelima18">
