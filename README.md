@@ -1,7 +1,7 @@
 ### E ai, eu sou o Guilherme Lima 🤘
 
 #### Tecnologias estudadas:
-- 📚 Front-End: HTML, CSS, Javascript, React.js, Next.js, (Sass, Styled Components, Chakra UI);
+- 📚 Front-End: HTML, CSS, Javascript, Typescript, React.js, Next.js, (Sass, Styled Components, Chakra UI);
 - 📚 Back-End: .NET C#;
 - 📚 Banco de dados: Mysql, SQL Server;
 
