@@ -2,8 +2,6 @@
 
 #### Tecnologias estudadas:
 - 📚 Front-End: HTML, CSS, Javascript, Typescript, React.js, Next.js, (Sass, Styled Components, Chakra UI);
-- 📚 Back-End: .NET C#;
-- 📚 Banco de dados: Mysql, SQL Server;
 
 <div>
   <a href="https://github.com/guilhermelima18">
